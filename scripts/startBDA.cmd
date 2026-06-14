@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "WORKINGDIRECTORY=E:\ThirdYear.2\BigData\WPy64-313130\notebooks\Dev"
+set "WORKINGDIRECTORY=E:\ThirdYear.2\BigData\WPy64-313130\notebooks\Dev\bigdata"
 set "VENV=E:\ThirdYear.2\BigData\WPy64-313130\notebooks\Envs\bigdata"
 
 cd /d "%WORKINGDIRECTORY%"
