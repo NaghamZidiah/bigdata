@@ -1,2 +1,2 @@
 # bigdata
-This repository is detecated for the bda course.
+Big Data Analytics course repository containing practical exercises, assignments, and data processing projects.
